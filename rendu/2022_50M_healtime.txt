@@ -1,0 +1,3 @@
+Healtime integrates into the professional healthcare world.
+During the day, our application allows digital notes to be taken in the patients' medical records, as well as monitoring treatments and schedules in real time.
+This avoids forgetting and mistaking information when caring for caregivers, thus increases the efficiency of care.
